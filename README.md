@@ -1,20 +1,24 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Kurozora](https://kurozora.app)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Kurozora](https://kurozora.app).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+1. Go to `Settings > Theme Store`
+2. Download the Dracula theme
+3. Enjoy!
+
+*Note: this theme is a built-in functionality available as part of the [Kurozora+ or Kurozora One](https://kurozora.app/kb/iap) subscription.*
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by Kurozora, and wouldn't exist without these people:
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Kiritokatklian](https://github.com/kiritokatklian.png?size=100)](https://github.com/zenorocha) |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [Zeno Rocha](https://github.com/zenorocha) | [Kiritokatklian](https://github.com/Kiritokatklian) |
 
 ## Community
 
